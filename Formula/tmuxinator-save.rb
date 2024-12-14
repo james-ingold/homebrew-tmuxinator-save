@@ -1,8 +1,8 @@
 class TmuxinatorSave < Formula
   desc "CLI tool to save tmux sessions as tmuxinator configuration files"
   homepage "https://github.com/jamessingold/tmuxinator-save"
-  url "https://registry.npmjs.org/tmuxinator-save/-/tmuxinator-save-1.0.0.tgz"
-  sha256 "f975d398d85bb45236b43c18c56bd4b939bba33a83336befab6a657e6d288ef1"
+  url "https://registry.npmjs.org/tmuxinator-save/-/tmuxinator-save-1.0.1.tgz"
+  sha256 "1c79a562a37a36965d4e2ed8a1207a34e5ae22e7e45c969675c951e57c5b8a37"
 
   depends_on "node"
 
